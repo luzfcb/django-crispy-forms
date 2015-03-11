@@ -27,3 +27,5 @@ _build
 
 # OSX
 *.DS_Store
+# pycharm project files
+.idea
